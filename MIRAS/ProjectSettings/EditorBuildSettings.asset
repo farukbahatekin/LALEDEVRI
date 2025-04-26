@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/oyun sahnesi.unity
     guid: ab25897e956e91a46a3e029db8ec1ed3
   - enabled: 1
+    path: "Assets/Scenes/oynan\u0131s.unity"
+    guid: db9eb17a9afbf5b4593eb72e642a406d
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects:

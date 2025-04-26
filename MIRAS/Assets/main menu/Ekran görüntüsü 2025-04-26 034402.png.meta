@@ -578,10 +578,10 @@ TextureImporter:
       name: "Ekran g\xF6r\xFCnt\xFCs\xFC 2025-04-26 034402_21"
       rect:
         serializedVersion: 2
-        x: 52
-        y: 71
+        x: 57
+        y: 73
         width: 143
-        height: 27
+        height: 25
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
