@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerMove : MonoBehaviour
 {
@@ -25,5 +26,10 @@ public class PlayerMove : MonoBehaviour
     private void FixedUpdate()
     {
         rb.MovePosition(rb.position+movement*moveSpeed*Time.fixedDeltaTime);
+    }
+
+    public void PlayerDie()
+    {
+        SceneManager.LoadScene(1);
     }
 }

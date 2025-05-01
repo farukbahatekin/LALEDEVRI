@@ -1,0 +1,1646 @@
+fileFormatVersion: 2
+guid: 748b05bfa28e50e42b03b1faeedcec88
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8983387156776734701
+    second: Vampires1_Death_full_0
+  - first:
+      213: 7920941947490091755
+    second: Vampires1_Death_full_1
+  - first:
+      213: 3040773915436804312
+    second: Vampires1_Death_full_2
+  - first:
+      213: -2180624986239357031
+    second: Vampires1_Death_full_3
+  - first:
+      213: 1980607130343665339
+    second: Vampires1_Death_full_4
+  - first:
+      213: -2497684198948861863
+    second: Vampires1_Death_full_5
+  - first:
+      213: -7408555666828831318
+    second: Vampires1_Death_full_6
+  - first:
+      213: 6576848137931977215
+    second: Vampires1_Death_full_7
+  - first:
+      213: 101385870692071948
+    second: Vampires1_Death_full_8
+  - first:
+      213: 7559638108888598849
+    second: Vampires1_Death_full_9
+  - first:
+      213: -159815022832078626
+    second: Vampires1_Death_full_10
+  - first:
+      213: -7768475562381396303
+    second: Vampires1_Death_full_11
+  - first:
+      213: -428273483017333282
+    second: Vampires1_Death_full_12
+  - first:
+      213: -8701734012925721154
+    second: Vampires1_Death_full_13
+  - first:
+      213: -6707973627678201654
+    second: Vampires1_Death_full_14
+  - first:
+      213: 4429658536450951426
+    second: Vampires1_Death_full_15
+  - first:
+      213: 2183338149498871471
+    second: Vampires1_Death_full_16
+  - first:
+      213: 4927509498356596133
+    second: Vampires1_Death_full_17
+  - first:
+      213: -1002730287500745163
+    second: Vampires1_Death_full_18
+  - first:
+      213: -6630293674498430165
+    second: Vampires1_Death_full_19
+  - first:
+      213: -5155403848040861618
+    second: Vampires1_Death_full_20
+  - first:
+      213: -2080620587113475098
+    second: Vampires1_Death_full_21
+  - first:
+      213: -3477012102588877980
+    second: Vampires1_Death_full_22
+  - first:
+      213: 4865205209161715446
+    second: Vampires1_Death_full_23
+  - first:
+      213: 427151088658533546
+    second: Vampires1_Death_full_24
+  - first:
+      213: -7517123438286244489
+    second: Vampires1_Death_full_25
+  - first:
+      213: 4949115873214900654
+    second: Vampires1_Death_full_26
+  - first:
+      213: -1266198858063930722
+    second: Vampires1_Death_full_27
+  - first:
+      213: 572079235358365565
+    second: Vampires1_Death_full_28
+  - first:
+      213: 531509255983213244
+    second: Vampires1_Death_full_29
+  - first:
+      213: 5957791610139719625
+    second: Vampires1_Death_full_30
+  - first:
+      213: 2176167450529474667
+    second: Vampires1_Death_full_31
+  - first:
+      213: -1746052317389716021
+    second: Vampires1_Death_full_32
+  - first:
+      213: -9176232474682647001
+    second: Vampires1_Death_full_33
+  - first:
+      213: 2599350782665893197
+    second: Vampires1_Death_full_34
+  - first:
+      213: -5442193481597360876
+    second: Vampires1_Death_full_35
+  - first:
+      213: 8237922736433143930
+    second: Vampires1_Death_full_36
+  - first:
+      213: -3636480459706888896
+    second: Vampires1_Death_full_37
+  - first:
+      213: -2671645613964115305
+    second: Vampires1_Death_full_38
+  - first:
+      213: -6322112186640727840
+    second: Vampires1_Death_full_39
+  - first:
+      213: -824135389621086140
+    second: Vampires1_Death_full_40
+  - first:
+      213: 1519986432801946420
+    second: Vampires1_Death_full_41
+  - first:
+      213: 5923590241422309549
+    second: Vampires1_Death_full_42
+  - first:
+      213: 7020277910294761034
+    second: Vampires1_Death_full_43
+  - first:
+      213: -8637604367580634664
+    second: Vampires1_Death_full_44
+  - first:
+      213: 7976614184994444972
+    second: Vampires1_Death_full_45
+  - first:
+      213: -2766279095132550816
+    second: Vampires1_Death_full_46
+  - first:
+      213: -600921360486933572
+    second: Vampires1_Death_full_47
+  - first:
+      213: -4598263275186120101
+    second: Vampires1_Death_full_48
+  - first:
+      213: -2183271028248765429
+    second: Vampires1_Death_full_49
+  - first:
+      213: -6957052297925974003
+    second: Vampires1_Death_full_50
+  - first:
+      213: 180179680851836458
+    second: Vampires1_Death_full_51
+  - first:
+      213: 9220218427585845474
+    second: Vampires1_Death_full_52
+  - first:
+      213: -5543211553485647303
+    second: Vampires1_Death_full_53
+  - first:
+      213: -8352510733542692666
+    second: Vampires1_Death_full_54
+  - first:
+      213: 6507478809152280760
+    second: Vampires1_Death_full_55
+  - first:
+      213: 82988397822938654
+    second: Vampires1_Death_full_56
+  - first:
+      213: 3582327196024828753
+    second: Vampires1_Death_full_57
+  - first:
+      213: 5950047266182320286
+    second: Vampires1_Death_full_58
+  - first:
+      213: -2570496522698846881
+    second: Vampires1_Death_full_59
+  - first:
+      213: -937418724096440938
+    second: Vampires1_Death_full_60
+  - first:
+      213: -6544842100390528304
+    second: Vampires1_Death_full_61
+  - first:
+      213: 6944574644981363157
+    second: Vampires1_Death_full_62
+  - first:
+      213: 1663776890428382118
+    second: Vampires1_Death_full_63
+  - first:
+      213: 142665056116734435
+    second: Vampires1_Death_full_64
+  - first:
+      213: -6906720586875633499
+    second: Vampires1_Death_full_65
+  - first:
+      213: -7077501548350158832
+    second: Vampires1_Death_full_66
+  - first:
+      213: 3984317257089529562
+    second: Vampires1_Death_full_67
+  - first:
+      213: 7438875475066351641
+    second: Vampires1_Death_full_68
+  - first:
+      213: 5711668289667748879
+    second: Vampires1_Death_full_69
+  - first:
+      213: 3607215115262414546
+    second: Vampires1_Death_full_70
+  - first:
+      213: 8703296386243925756
+    second: Vampires1_Death_full_71
+  - first:
+      213: 8269418638036286307
+    second: Vampires1_Death_full_72
+  - first:
+      213: 1345491434079550709
+    second: Vampires1_Death_full_73
+  - first:
+      213: -3558917384203817731
+    second: Vampires1_Death_full_74
+  - first:
+      213: 2780509388560873383
+    second: Vampires1_Death_full_75
+  - first:
+      213: -6421486887371323435
+    second: Vampires1_Death_full_76
+  - first:
+      213: 2963575495182771818
+    second: Vampires1_Death_full_77
+  - first:
+      213: 1916560117859945326
+    second: Vampires1_Death_full_78
+  - first:
+      213: -3635591178584592449
+    second: Vampires1_Death_full_79
+  - first:
+      213: -4836151367291769254
+    second: Vampires1_Death_full_80
+  - first:
+      213: 6468271910122869469
+    second: Vampires1_Death_full_81
+  - first:
+      213: 5675244833358340861
+    second: Vampires1_Death_full_82
+  - first:
+      213: 734342480057931724
+    second: Vampires1_Death_full_83
+  - first:
+      213: 5085407546963032657
+    second: Vampires1_Death_full_84
+  - first:
+      213: -4520943903320212947
+    second: Vampires1_Death_full_85
+  - first:
+      213: 8280034021748650333
+    second: Vampires1_Death_full_86
+  - first:
+      213: -6053731124767773062
+    second: Vampires1_Death_full_87
+  - first:
+      213: -997675964733011792
+    second: Vampires1_Death_full_88
+  - first:
+      213: -6341572756160568967
+    second: Vampires1_Death_full_89
+  - first:
+      213: 803081773143811503
+    second: Vampires1_Death_full_90
+  - first:
+      213: 7988517568592565322
+    second: Vampires1_Death_full_91
+  - first:
+      213: -4731124613793023726
+    second: Vampires1_Death_full_92
+  - first:
+      213: -153815106685027140
+    second: Vampires1_Death_full_93
+  - first:
+      213: -1014096910648831083
+    second: Vampires1_Death_full_94
+  - first:
+      213: 961174751579037577
+    second: Vampires1_Death_full_95
+  - first:
+      213: 2961212995233316008
+    second: Vampires1_Death_full_96
+  - first:
+      213: -9097661569167471185
+    second: Vampires1_Death_full_97
+  - first:
+      213: 5573857730062859195
+    second: Vampires1_Death_full_98
+  - first:
+      213: -5051464023527062790
+    second: Vampires1_Death_full_99
+  - first:
+      213: -2572653065641240408
+    second: Vampires1_Death_full_100
+  - first:
+      213: -4449080183897731731
+    second: Vampires1_Death_full_101
+  - first:
+      213: 6678584853246280742
+    second: Vampires1_Death_full_102
+  - first:
+      213: -6746797396902091446
+    second: Vampires1_Death_full_103
+  - first:
+      213: -4006578880325565406
+    second: Vampires1_Death_full_104
+  - first:
+      213: 7065183717402034439
+    second: Vampires1_Death_full_105
+  - first:
+      213: -728832809125659518
+    second: Vampires1_Death_full_106
+  - first:
+      213: 7101718343885314879
+    second: Vampires1_Death_full_107
+  - first:
+      213: 6646865317070183344
+    second: Vampires1_Death_full_108
+  - first:
+      213: -6811030325384975730
+    second: Vampires1_Death_full_109
+  - first:
+      213: -1870683193229185549
+    second: Vampires1_Death_full_110
+  - first:
+      213: -3669598990144081383
+    second: Vampires1_Death_full_111
+  - first:
+      213: -6687823189447729985
+    second: Vampires1_Death_full_112
+  - first:
+      213: -6642689408893993143
+    second: Vampires1_Death_full_113
+  - first:
+      213: -8246786546159053552
+    second: Vampires1_Death_full_114
+  - first:
+      213: -8182753870749693041
+    second: Vampires1_Death_full_115
+  - first:
+      213: 6878518609186262561
+    second: Vampires1_Death_full_116
+  - first:
+      213: -3943037822245804490
+    second: Vampires1_Death_full_117
+  - first:
+      213: -520283500832377759
+    second: Vampires1_Death_full_118
+  - first:
+      213: 1655489012705291375
+    second: Vampires1_Death_full_119
+  - first:
+      213: -3469995365463831355
+    second: Vampires1_Death_full_120
+  - first:
+      213: -1124836288544435821
+    second: Vampires1_Death_full_121
+  - first:
+      213: 3580080118557987813
+    second: Vampires1_Death_full_122
+  - first:
+      213: 1360996564222781659
+    second: Vampires1_Death_full_123
+  - first:
+      213: 6606772661702164835
+    second: Vampires1_Death_full_124
+  - first:
+      213: 2275239308612457994
+    second: Vampires1_Death_full_125
+  - first:
+      213: 1000460264011342923
+    second: Vampires1_Death_full_126
+  - first:
+      213: 2771772732421760734
+    second: Vampires1_Death_full_127
+  - first:
+      213: 7268449866081558689
+    second: Vampires1_Death_full_128
+  - first:
+      213: 540067830896130990
+    second: Vampires1_Death_full_129
+  - first:
+      213: 8437005431277602438
+    second: Vampires1_Death_full_130
+  - first:
+      213: 3299331651780039282
+    second: Vampires1_Death_full_131
+  - first:
+      213: -725340336678353805
+    second: Vampires1_Death_full_132
+  - first:
+      213: 3125984680044570314
+    second: Vampires1_Death_full_133
+  - first:
+      213: -6080610499240183522
+    second: Vampires1_Death_full_134
+  - first:
+      213: -3628128076214789435
+    second: Vampires1_Death_full_135
+  - first:
+      213: -8214187622749723508
+    second: Vampires1_Death_full_136
+  - first:
+      213: -2337664907097903593
+    second: Vampires1_Death_full_137
+  - first:
+      213: -170722029486392116
+    second: Vampires1_Death_full_138
+  - first:
+      213: 8531687474016682535
+    second: Vampires1_Death_full_139
+  - first:
+      213: 7886408506661108891
+    second: Vampires1_Death_full_140
+  - first:
+      213: -5665326102976832052
+    second: Vampires1_Death_full_141
+  - first:
+      213: -1676148354212600542
+    second: Vampires1_Death_full_142
+  - first:
+      213: -5995342630198384966
+    second: Vampires1_Death_full_143
+  - first:
+      213: 6837496242662535726
+    second: Vampires1_Death_full_144
+  - first:
+      213: -3972001443930067264
+    second: Vampires1_Death_full_145
+  - first:
+      213: -4117277718141064799
+    second: Vampires1_Death_full_146
+  - first:
+      213: 5968534637592078754
+    second: Vampires1_Death_full_147
+  - first:
+      213: 7686412438993037712
+    second: Vampires1_Death_full_148
+  - first:
+      213: -2949879593929883325
+    second: Vampires1_Death_full_149
+  - first:
+      213: -2659897286961479293
+    second: Vampires1_Death_full_150
+  - first:
+      213: 4004215571749639650
+    second: Vampires1_Death_full_151
+  - first:
+      213: -7594650530520465699
+    second: Vampires1_Death_full_152
+  - first:
+      213: 61120816627122100
+    second: Vampires1_Death_full_153
+  - first:
+      213: 7276904122877152313
+    second: Vampires1_Death_full_154
+  - first:
+      213: -8884515791075189439
+    second: Vampires1_Death_full_155
+  - first:
+      213: 1550970076998460442
+    second: Vampires1_Death_full_156
+  - first:
+      213: 8687830144853483217
+    second: Vampires1_Death_full_157
+  - first:
+      213: 5411674415605586512
+    second: Vampires1_Death_full_158
+  - first:
+      213: 3386633364586961489
+    second: Vampires1_Death_full_159
+  - first:
+      213: -3413494407289920261
+    second: Vampires1_Death_full_160
+  - first:
+      213: 4783851199778955357
+    second: Vampires1_Death_full_161
+  - first:
+      213: 6853885356501404230
+    second: Vampires1_Death_full_162
+  - first:
+      213: 1730884971090815380
+    second: Vampires1_Death_full_163
+  - first:
+      213: 762372528476386344
+    second: Vampires1_Death_full_164
+  - first:
+      213: -223222707205051798
+    second: Vampires1_Death_full_165
+  - first:
+      213: 6313712939777307744
+    second: Vampires1_Death_full_166
+  - first:
+      213: 4292565252326546430
+    second: Vampires1_Death_full_167
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Vampires1_Death_full_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c500075156e44ad4eac3b57d0cfcfd83
+      internalID: -294373601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Death_full_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3dbe30828e23247839c55211407986
+      internalID: 1088081689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Death_full_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0196357149cb96c4f992704ac98ed010
+      internalID: -1634555917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Death_full_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4593ee38da0df8f409328e97b9e80898
+      internalID: 245027354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Death_full_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9057ddfffc97e4892271dff98b72d1
+      internalID: 2033116402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Death_full_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063a540d1f99b67488f2cd19115a2e04
+      internalID: 1067666496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Death_full_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb192c47c7352d84794d00582ebf7b12
+      internalID: 1847981987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Death_full_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452cdffbd6e81944682320f7a62615d3
+      internalID: -489890275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Death_full_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c99261282d0b44d87121de060da52e
+      internalID: -272091454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Death_full_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82bf53ec3417234299f6c1ac92145db
+      internalID: -1541511075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Death_full_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1610a9ed9ffb3438ee1fef524192ad
+      internalID: -1848891822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Death_full_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a6079c47a16094eb70cc2c2e537842
+      internalID: -660389656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Death_full_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac0f7b68a0e9c84a8355179c01f1a3b
+      internalID: -1817944513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Death_full_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4469bde3b64efc4b928284ba33d49ef
+      internalID: -905756719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Death_full_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65467e6863850546bf657613fe21c55
+      internalID: -1241625130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Death_full_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fc148b21842bf44bbfe1efeca6a05d
+      internalID: 1789958100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Death_full_16
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadbbd2f2ebf6f14dad37e8fceec1008
+      internalID: -400226557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Death_full_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2efe41f07618344b8be82856edf50b
+      internalID: -1476019262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Death_full_18
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed25bf37ab07f52429361e4ec0708da4
+      internalID: 1839411146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Death_full_19
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a9d808b9746fd4db586fffa3fb01ef
+      internalID: 1661666899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Death_full_20
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518b6cbfa9b5d904c8b23ccb36cd1730
+      internalID: -972030396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Death_full_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c1be210cd8952488c9f71607250a0b
+      internalID: 1234317990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Death_full_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a82d127fd2007d49b63ff151fe28426
+      internalID: 149917538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Death_full_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503e40379e48cc647bb15b1c17f49947
+      internalID: -246151102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Death_full_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6daaea73c295764589fc419440649c4
+      internalID: -395897088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Death_full_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2193f40ce449a7748b762eb2528caf05
+      internalID: 1048299225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Death_full_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa733ed0b2158d042b8d9c442963030d
+      internalID: 1548787904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Death_full_27
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ac4703a7d5c63449cef83657efc953
+      internalID: 1650637865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Death_full_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d3f9230cc237a4894be739c454cfc6
+      internalID: 1762501537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Death_full_29
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a991bea4f067f458c350a157e15b34
+      internalID: -427354427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Death_full_30
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c06d8cd68d58a542b4ea0dd7d98669b
+      internalID: -2065274417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Death_full_31
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf47e381f272b8f44817bf6d110106fb
+      internalID: 253047606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Death_full_32
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75a4f95d5cd567459709a3bdee98073
+      internalID: 1102205518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Death_full_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd18749a83e559c46868b0e69e647514
+      internalID: 1667433916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Death_full_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3439015411a651429d696a98daf2617
+      internalID: 205180116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Death_full_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebe9f8a707f488449365338003ee4e9
+      internalID: 440715697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Death_full_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ba9306116da954fbda6a581bbcabc6
+      internalID: 648110645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Death_full_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e95a6f698108564d9ead2e3c58bf376
+      internalID: -1207591639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Death_full_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe5edf1c9bba574897de8915a3f0ae2
+      internalID: 1486700243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Death_full_39
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70cfc76070df14d4ab81b9a21e2e90fe
+      internalID: 323335807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Death_full_40
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cc956f3ecac324a8dcc7bcb3ae5bfb
+      internalID: 899581698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Death_full_41
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf1ec93a241fa5458227299b89883e3
+      internalID: 1285852305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Death_full_42
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a769b0ad0fa1f44a4c95f2bf63b5f9
+      internalID: 1835126874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampires1_Death_full_43
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3817aa655b0585e44a3416f20d22373c
+      internalID: 754525862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: feea2ed16e7e731469ddeaf4af1de8b4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Vampires1_Death_full_0: -294373601
+      Vampires1_Death_full_1: 1088081689
+      Vampires1_Death_full_10: -1848891822
+      Vampires1_Death_full_11: -660389656
+      Vampires1_Death_full_12: -1817944513
+      Vampires1_Death_full_13: -905756719
+      Vampires1_Death_full_14: -1241625130
+      Vampires1_Death_full_15: 1789958100
+      Vampires1_Death_full_16: -400226557
+      Vampires1_Death_full_17: -1476019262
+      Vampires1_Death_full_18: 1839411146
+      Vampires1_Death_full_19: 1661666899
+      Vampires1_Death_full_2: -1634555917
+      Vampires1_Death_full_20: -972030396
+      Vampires1_Death_full_21: 1234317990
+      Vampires1_Death_full_22: 149917538
+      Vampires1_Death_full_23: -246151102
+      Vampires1_Death_full_24: -395897088
+      Vampires1_Death_full_25: 1048299225
+      Vampires1_Death_full_26: 1548787904
+      Vampires1_Death_full_27: 1650637865
+      Vampires1_Death_full_28: 1762501537
+      Vampires1_Death_full_29: -427354427
+      Vampires1_Death_full_3: 245027354
+      Vampires1_Death_full_30: -2065274417
+      Vampires1_Death_full_31: 253047606
+      Vampires1_Death_full_32: 1102205518
+      Vampires1_Death_full_33: 1667433916
+      Vampires1_Death_full_34: 205180116
+      Vampires1_Death_full_35: 440715697
+      Vampires1_Death_full_36: 648110645
+      Vampires1_Death_full_37: -1207591639
+      Vampires1_Death_full_38: 1486700243
+      Vampires1_Death_full_39: 323335807
+      Vampires1_Death_full_4: 2033116402
+      Vampires1_Death_full_40: 899581698
+      Vampires1_Death_full_41: 1285852305
+      Vampires1_Death_full_42: 1835126874
+      Vampires1_Death_full_43: 754525862
+      Vampires1_Death_full_5: 1067666496
+      Vampires1_Death_full_6: 1847981987
+      Vampires1_Death_full_7: -489890275
+      Vampires1_Death_full_8: -272091454
+      Vampires1_Death_full_9: -1541511075
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
